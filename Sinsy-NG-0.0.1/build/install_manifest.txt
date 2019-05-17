@@ -1,0 +1,4 @@
+/usr/local/include/sinsy/sinsy.h
+/usr/local/include/sinsy/ringbuffer.h
+/usr/local/lib/libsinsy.so
+/usr/local/bin/sinsyNG

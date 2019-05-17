@@ -1,0 +1,8 @@
+/home/mathi/Desktop/MyBand/2.sound/synthesis/sinsy/RealTimeSingingSynthesis/synthesisSoftware/Sinsy-NG-0.0.1/build/CMakeFiles/install/strip.dir
+/home/mathi/Desktop/MyBand/2.sound/synthesis/sinsy/RealTimeSingingSynthesis/synthesisSoftware/Sinsy-NG-0.0.1/build/CMakeFiles/install/local.dir
+/home/mathi/Desktop/MyBand/2.sound/synthesis/sinsy/RealTimeSingingSynthesis/synthesisSoftware/Sinsy-NG-0.0.1/build/CMakeFiles/sinsy.dir
+/home/mathi/Desktop/MyBand/2.sound/synthesis/sinsy/RealTimeSingingSynthesis/synthesisSoftware/Sinsy-NG-0.0.1/build/CMakeFiles/install.dir
+/home/mathi/Desktop/MyBand/2.sound/synthesis/sinsy/RealTimeSingingSynthesis/synthesisSoftware/Sinsy-NG-0.0.1/build/CMakeFiles/sinsyNG.dir
+/home/mathi/Desktop/MyBand/2.sound/synthesis/sinsy/RealTimeSingingSynthesis/synthesisSoftware/Sinsy-NG-0.0.1/build/CMakeFiles/edit_cache.dir
+/home/mathi/Desktop/MyBand/2.sound/synthesis/sinsy/RealTimeSingingSynthesis/synthesisSoftware/Sinsy-NG-0.0.1/build/CMakeFiles/rebuild_cache.dir
+/home/mathi/Desktop/MyBand/2.sound/synthesis/sinsy/RealTimeSingingSynthesis/synthesisSoftware/Sinsy-NG-0.0.1/build/CMakeFiles/list_install_components.dir
