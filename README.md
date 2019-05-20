@@ -1,4 +1,4 @@
 # SingingSynthesizer
 Singing Synthesizer
 
-This repository was moved to https://github.com/mathigatti/SingingSynthesizer
+The updated version of this repository is at: https://github.com/mathigatti/RealTimeSingingSynthesis
